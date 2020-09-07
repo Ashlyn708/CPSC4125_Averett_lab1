@@ -1,0 +1,25 @@
+body {
+    background-color: whitesmoke;
+    border-color:#edca82;
+    border-style: solid;
+    border-width: thick;
+}
+header{
+    color: black;
+    background-color:  #edca82;
+    border-bottom-style: solid;
+    border-bottom-color: black;
+    border-bottom-width: thick;
+  }
+  p {
+    color:black;
+    font-weight: bold;
+  } 
+ nav {
+    background-color: #a9c0a6;
+    color: black;
+  }
+  button
+  {
+    color:#097770;
+  }
